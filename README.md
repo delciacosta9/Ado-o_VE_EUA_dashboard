@@ -38,9 +38,9 @@ Este projeto foi desenvolvido como um relatório orientado a dados para ajudar d
 
 ---
 
-## Pré-visualização do Painel
+## Painel Interativo
+[Ver painel complrto no Tableau Public](https://public.tableau.com/app/profile/delcia.costa/viz/Adocao_VE_EUA_Dashboard/Painel?publish=yes)
 
-![EV Dashboard](dashboard/preview.png)
 
 **O painel inclui:**
 - KPI cards — taxa nacional de VE, estado líder, quota média de gasolina
